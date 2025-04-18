@@ -11,7 +11,8 @@
 CareerBoost is an AI-powered web application designed to assist job seekers in finding job opportunities, preparing for interviews, and creating professional CVs. Built with a focus on usability and efficiency, it leverages advanced AI agents to deliver tailored results for users worldwide, with a special emphasis on the Indian job market.
 
 ---
-
+## App
+ - [CareerBoost](https://huggingface.co/spaces/Musabbirkm/CareerBoost)
 ## Features
 
 CareerBoost offers four core functionalities, each powered by specialized AI agents:
