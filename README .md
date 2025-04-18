@@ -17,26 +17,44 @@ CareerBoost is an AI-powered web application designed to assist job seekers in f
 CareerBoost offers four core functionalities, each powered by specialized AI agents:
 
 1. **Job Finding Agent**:
-   - Scrapes job listings from major job boards like Naukri.com, Shine.com, LinkedIn, and Indeed.
-   - Supports location-based searches (e.g., "data science in Kochi").
-   - Displays detailed job information: title, company, location, link, and source.
-   - Falls back to web search for additional links if scraping fails.
+   - Scrapes job listings from major job boards like Naukri.com, Shine.com, LinkedIn, and Indeed
+   - Supports location-based searches (e.g., "data science in Kochi")
+   - Displays detailed job information: title, company, location, salary range, and application link
+   - Intelligent fallback to web search when direct scraping fails
+   - Real-time alerts for new postings matching your profile
+   - Fetches structured job listings using the RapidAPI JSearch endpoint
 
-2. **RapidAPI Job Search**:
-   - Fetches structured job listings using the RapidAPI JSearch endpoint.
-   - Allows filtering by job title, location, and country code (default: India).
-   - Provides clean, reliable job data with minimal latency.
+2. **Interview Preparation**:
+   - Generates 10 tailored interview questions and answers (4 technical, 3 behavioral, 3 situational)
+   - Incorporates latest trends (2022–2025) covering emerging skills like:
+     - Machine Learning Ops (MLOps)
+     - Ethical AI frameworks
+     - Cloud-native technologies
+     - Data visualization tools (Tableau, PowerBI)
+   - Includes company-specific question banks for top employers
+   - Provides sample answers with STAR (Situation-Task-Action-Result) format
+   - Delivers plain-text output for easy review and practice
 
-3. **Interview Preparation**:
-   - Generates 10 tailored interview questions and answers for a specified job field (4 technical, 3 behavioral, 3 situational).
-   - Incorporates trends from 2022–2025, covering skills like machine learning, data visualization, and ethical AI.
-   - Delivers plain-text output for easy review.
+3. **CV Creator**:
+   - Builds ATS-friendly CVs optimized for applicant tracking systems
+   - Custom templates for different experience levels (Entry, Mid, Senior)
+   - Includes smart sections:
+     - Professional Summary with keywords
+     - Skills Matrix with proficiency levels
+     - Experience with measurable achievements
+     - Education with relevant coursework
+   - Auto-formatting for consistent styling
+   - Export options (PDF, DOCX, plain text)
 
-4. **CV Creator**:
-   - Builds ATS-friendly CVs based on user-provided job field and experience.
-   - Includes sections for Summary, Skills, Experience, and Education.
-   - Uses a standardized format optimized for job applications.
-
+4. **Career Insights**:
+   - Daily curated feed of job market trends and tech news
+   - Company watchlists with hiring alerts
+   - Salary benchmarking by role and location
+   - Emerging technology spotlights (AI, Blockchain, IoT)
+   - Industry-specific reports (IT, Healthcare, Finance)
+   - Local job market heatmaps
+   - Skill gap analysis with learning recommendations
+   - Networking event calendars
 ---
 
 ## Technologies Used
