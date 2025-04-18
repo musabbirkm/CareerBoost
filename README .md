@@ -1,13 +1,3 @@
----
-license: other
-title: CareerBoost
-sdk: streamlit
-emoji: 📈
-colorFrom: blue
-colorTo: purple
-pinned: true
-short_description: AI-powered, futuristic, and career-accelerating
----
 # CareerBoost: Your Job Search & Prep Companion
 
 **Empowering Your Career Journey with AI-Driven Tools**
@@ -93,15 +83,10 @@ CareerBoost leverages four specialized AI agents, each designed for a specific t
 
 ---
 
-## Installation and Setup
-
-To run CareerBoost locally or deploy it to Hugging Face Spaces, follow these steps:
-
-### Prerequisites
-- Python 3.9+
-- Git
-- Hugging Face account (for deployment)
-- API keys:
-  - [Google API Key](https://cloud.google.com/docs/authentication/api-keys) for Gemini LLM
-  - [RapidAPI Key](https://rapidapi.com/letscrape-6bRBaM6guO5/api/jsearch) for JSearch
-
+## Get In Touch
+   - We’d love to hear from you! Whether you have questions, feedback, or just want to chat, reach out to us anytime.
+   - 📧 **Email**: [musabbirmushu@gmail.com](mailto:musabbirmushu@gmail.com)  
+   - 💼 **LinkedIn**: [CareerBoost LinkedIn](https://www.linkedin.com/in/muhammed-musabbir-km-0302b8212utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appt)
+   - 🌐 **Website**: [www.careerboost.ai](https://omnicipher.onrender.com)  
+   - ⌨️ **GitHub**: [CareerBoost GitHub](https://github.com/musabbirkm)
+       
